@@ -1,0 +1,53 @@
+{
+    "php.suggest.basic": false,
+    "php.executablePath": "D:\\haikal_install\\php\\php.exe",
+    "php.validate.executablePath": "D:\\haikal_install\\php\\php.exe",
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.lineHeight": 27,
+    "git.ignoreWindowsGit27Warning": true,
+    "workbench.startupEditor": "none",
+    "[dart]": {
+      "editor.formatOnSave": false,
+      "editor.formatOnType": false,
+      "editor.rulers": [
+        80
+      ],
+      "editor.selectionHighlight": true,
+      "editor.suggest.snippetsPreventQuickSuggestions": true,
+      "editor.suggestSelection": "first",
+      "editor.tabCompletion": "onlySnippets",
+      "editor.wordBasedSuggestions": true
+    },
+    "html.format.preserveNewLines": false,
+    "launch": {
+  
+  
+  
+  
+      "configurations": [],
+      "compounds": []
+    },
+    "dart.analyzerInstrumentationLogFile": null,
+    "dart.debugExternalPackageLibraries": true,
+    "dart.debugSdkLibraries": false,
+    // "dart.analyzerInstrumentationLogFile": null,
+    "files.associations": {
+      "*.js": "javascriptreact"
+    },
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+      
+    },
+  
+    "json.schemas": [
+      {
+        "fileMatch": ["/package.json"],
+        "url": "https://json.schemastore.org/package",
+        "schema": true
+      }
+    ],
+    "editor.wordWrap": "on"
+  }
